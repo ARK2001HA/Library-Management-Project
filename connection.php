@@ -6,7 +6,7 @@ $db= "project_library";
 $conn= mysqli_connect($servername,$username,$password,$db);
 if($conn)
 {
-	// echo "Connection Successfull";
+	// echo "Connection Successful";
 }
 else
 {
